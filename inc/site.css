@@ -1,0 +1,7 @@
+.site-header {
+    transition: color 0.5s;
+    color: white;
+}
+.site-header:hover {
+    color: #19b5fe;
+}
